@@ -1,0 +1,1 @@
+<footer><?= TEXT_FOOTER?></footer>
